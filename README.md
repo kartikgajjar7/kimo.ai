@@ -27,8 +27,8 @@ Follow these steps to set up **Kimo.ai** on your local machine:
 
 Provide instructions and examples on how to use your project after installation.
 1. Run the load_courses.py file 
-
  ```bash
+cd scripts
 python3 load_courses.py 
 ```
 
