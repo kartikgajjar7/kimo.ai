@@ -35,5 +35,6 @@ python3 load_courses.py
 2. run the server 
 
  ```bash
+cd ..
 uvicorn app.main:app --reload
 ```
