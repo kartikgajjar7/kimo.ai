@@ -26,9 +26,14 @@ Follow these steps to set up **Kimo.ai** on your local machine:
 ## Usage
 
 Provide instructions and examples on how to use your project after installation.
+1. Run the load_courses.py file 
 
-1. **Running the Application**
+ ```bash
+python3 load_courses.py 
+```
 
-   ```bash
-   python main.py
-   ```
+2. run the server 
+
+ ```bash
+uvicorn app.main:app --reload
+```
