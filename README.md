@@ -23,14 +23,6 @@ Follow these steps to set up **Kimo.ai** on your local machine:
    ```bash
    pip install -r requirements.txt
    ```
-
-   *If your project uses another package manager (like `npm` for JavaScript), adjust accordingly:*
-
-   ```bash
-   npm install
-   ```
-
-
 ## Usage
 
 Provide instructions and examples on how to use your project after installation.
